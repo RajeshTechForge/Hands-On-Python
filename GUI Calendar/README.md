@@ -1,7 +1,3 @@
-![CAlender_template](https://github.com/rmondal-official/GUI-Calender/assets/78198704/68c595be-5341-4296-b462-bb9af6160b4e)
-
-# Overview
-
 This repository contains the source code for a visually appealing, intuitive, and user-friendly GUI calendar application developed using Python libraries.
 
 # Key Features
@@ -20,16 +16,9 @@ This repository contains the source code for a visually appealing, intuitive, an
    - tkcalendar (install it using `pip install tkcalendar`)
    - datetime module (included with Python)
 
-2. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/rmondal-official/GUI-Calendar.git
-   ```
+2. **Clone the Repository**
 
-3. **Run the Application:**
-   ```bash
-   cd GUI-Calendar
-   python GUI_Calendar.py
-   ```
+3. **Run the Application:** `python GUI_Calendar.py`
 
 # Customization
 
@@ -43,7 +32,3 @@ You can modify the appearance and behavior of the calendar to match your individ
 # Contributing
 
 We welcome contributions! If you have suggestions for improvements, bug fixes, or new features, please submit a pull request. Ensure your code adheres to the project's style guidelines and coding conventions.
-
-# License
-
-This project is licensed under the MIT License.

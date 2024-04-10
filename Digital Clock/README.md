@@ -13,18 +13,11 @@ This repository contains the code for a beautiful digital clock built using Pyth
 
 1. Make sure you have Python 3.10 or newer installed on your system.
    
-3. Clone this repository:
-   ```bash
-   git clone https://github.com/rmondal-official/Digital-Clock.git
-   ```
-4. Head to the project directory:
-   ```bash
-   cd Digital-Clock
-   ```
-6. Run the script:
-   ```bash
-   python main.py
-   ```
+2. First clone this repository
+
+3. Head to the project directory
+
+4. Run the script: `python main.py`
 
 # Customization
 

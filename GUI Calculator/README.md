@@ -1,6 +1,3 @@
-![GUI_Calculator_template](https://github.com/rmondal-official/GUI-Calculator/assets/78198704/36a624b8-e6a7-4580-8cd8-08547f02e98d)
-
-# Overview
 
 This repository houses the Python code for a delightful and easy-to-use GUI calculator, expertly crafted using the Tkinter library. It presents a visually appealing and intuitive interface that seamlessly basic mathematical operations.
 
@@ -18,11 +15,7 @@ This repository houses the Python code for a delightful and easy-to-use GUI calc
 
 # Installation
 
-1. Clone or download the repository:
-
-   ```bash
-   git clone https://github.com/rmondal-official/GUI-Calculator.git
-   ```
+1. Clone or download the repository
 
 2. If Tkinter is not installed, use pip to install it:
 
@@ -35,21 +28,12 @@ This repository houses the Python code for a delightful and easy-to-use GUI calc
    pip install ttkthemes
    ```
       
-**Note:** Using virtual environment is always recomemded
+**Note:** Using virtual environment is always recommended
 
 # Running the Calculator
 
 1. Navigate to the project directory:
-
-   ```bash
-   cd GUI-Calculator
-   ```
-
-2. Run the main Python script:
-
-   ```bash
-   python GUI_Calculator.py
-   ```
+2. Run the main Python script: `python GUI_Calculator.py`
 
 This will launch the GUI calculator on your screen.
 
@@ -70,7 +54,3 @@ Feel free to experiment with the code in `GUI_Calculator.py` to personalize the 
 # Contributions
 
 I encourage you to contribute to this project! Share your ideas, improvements, improving GUI design or bug reports by opening an issue or pull request.
-
-
-      
-![GitHub](https://img.shields.io/github/license/navendu-pottekkat/awesome-readme)

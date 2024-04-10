@@ -12,18 +12,9 @@ This repository contains a simple Python implementation of the classic Snake-Wat
 
 # Getting Started
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/rmondal-official/Snake-Water-Gun_game.git
-   ```
-   
-3. Install Python (if not already installed): [https://www.python.org/downloads/](https://www.python.org/downloads/)
-   
-5. Run the game:
-   ```bash
-   cd Snake-Water-Gun_game
-   python main.py
-   ```
+1. At first clone this repository
+2. Install Python (if not already installed): [https://www.python.org/downloads/](https://www.python.org/downloads/)
+3. Head to the directory and run the game: `python main.py`
 
 # Gameplay
 
@@ -35,8 +26,3 @@ This repository contains a simple Python implementation of the classic Snake-Wat
 # Contributions
 
 Feel free to fork this repository and make your own improvements or variations of the game. Pull requests are welcome!
-
-# License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
