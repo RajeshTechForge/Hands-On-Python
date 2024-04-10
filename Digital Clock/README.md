@@ -1,15 +1,15 @@
 
-# Digital Clock - Python GUI Timekeeper
+## Digital Clock - Python GUI Timekeeper
 
 This repository contains the code for a beautiful digital clock built using Python and the tkinter library. 
 
-# Features
+## Features
 
 * Displays the current time in a user-friendly digital format.
 * Clean and aesthetically pleasing design.
 * Uses Python 3.10 and the tkinter library for a platform-independent experience.
 
-# Getting Started
+## Getting Started
 
 1. Make sure you have Python 3.10 or newer installed on your system.
    
@@ -19,7 +19,7 @@ This repository contains the code for a beautiful digital clock built using Pyth
 
 4. Run the script: `python main.py`
 
-# Customization
+## Customization
 
 You can customize the clock's appearance by modifying the code in `main.py`. Some elements you can adjust include:
 
@@ -27,10 +27,6 @@ You can customize the clock's appearance by modifying the code in `main.py`. Som
 * Background color and text color
 * Clock size and position on the screen
 
-# Contributing
+## Contributing
 
 We welcome contributions to this project! Feel free to fork the repository and submit pull requests with your improvements.
-
-# License
-
-This project is licensed under the MIT License. See the LICENSE file for details.

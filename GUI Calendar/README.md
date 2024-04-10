@@ -1,6 +1,6 @@
 This repository contains the source code for a visually appealing, intuitive, and user-friendly GUI calendar application developed using Python libraries.
 
-# Key Features
+## Key Features
 
 - **TKinter-based Interface:** Leverages the Tkinter library for a native-looking and responsive GUI experience across various platforms.
 - **tkcalendar Integration:** Employs the tkcalendar library to provide a fully functional calendar widget with intuitive date navigation and selection.
@@ -8,7 +8,7 @@ This repository contains the source code for a visually appealing, intuitive, an
 - **Easy Customization:** Offers the ability to personalize the calendar's appearance and behavior to suit your preferences.
 - **Open-Source & Cross-Platform:** Freely available and compatible with major operating systems, fostering collaboration and wider usage.
 
-# Getting Started
+## Getting Started
 
 1. **Prerequisites:**
    - Python 3.10 (I hope it would be compatible with newer version)
@@ -20,7 +20,7 @@ This repository contains the source code for a visually appealing, intuitive, an
 
 3. **Run the Application:** `python GUI_Calendar.py`
 
-# Customization
+## Customization
 
 You can modify the appearance and behavior of the calendar to match your individual needs:
 
@@ -29,6 +29,6 @@ You can modify the appearance and behavior of the calendar to match your individ
 - **Date Formats:** Adjust the way dates are displayed by modifying the code responsible for formatting.
 - **Functionality:** Add new features or modify existing ones as desired, keeping in mind code clarity and maintainability.
 
-# Contributing
+## Contributing
 
 We welcome contributions! If you have suggestions for improvements, bug fixes, or new features, please submit a pull request. Ensure your code adheres to the project's style guidelines and coding conventions.
