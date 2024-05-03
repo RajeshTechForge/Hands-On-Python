@@ -20,3 +20,6 @@ Welcome to my Python playground!  This repository chronicles my journey into the
 These projects represent the launchpad of my Python development journey. I'm constantly seeking new challenges to expand my skill set and delve deeper into the realm of programming. Stay tuned for more exciting projects in the future!
 
 ## Let's Connect  🤗 !
+email: rajeshmondal04@outlook.com  
+LinkedIn: www.linkedin.com/in/rajeshtechforge  
+Insta: https://www.instagram.com/rajeshtechforge/  
