@@ -35,7 +35,7 @@ _Here is the step-by-step **Beginner's Guide** on how a beginner can contribute 
 <summary>
 Step 1: Star The Repo
 </summary>
-Give a star to this repo
+Give a star to this repo. Your support means a lot to us.
 
 </details>
 <details>

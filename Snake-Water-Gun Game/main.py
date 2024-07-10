@@ -1,4 +1,3 @@
-# This is my project "Snake Water & Gun"
 # I have used 'random' module in this game to choose the option -
 # for computer,so that computer can choose a random option for it.
 
@@ -62,7 +61,7 @@ print()
 print('~~ Game Over ~~')
 
 if your_point > com_point:
-    print('''Congragulation,You win this match.''')
+    print('''Congratulation,You win this match.''')
 
 elif your_point < com_point:
     print('Computer win this match.')
@@ -72,4 +71,3 @@ else:
 
 print(f"Your point = {your_point}")
 print(f"computer point = {com_point}")
-# finish

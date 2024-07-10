@@ -6,7 +6,7 @@ import datetime
 a_root = Tk()
 a_root.title("My Calendar")
 # a_root.wm_iconbitmap("your_icon_image.ico")
-a_root.geometry("370x260")
+a_root.geometry("500x300")
 
 
 current_date = datetime.datetime.now()

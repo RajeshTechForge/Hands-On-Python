@@ -1,0 +1,5 @@
+pyler
+tkcalendar
+pypng
+pyqrcode
+ttkthemes
